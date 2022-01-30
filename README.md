@@ -21,3 +21,12 @@ This is the Best Calculator Bot!
 ---
 
 [Support group](https://t.me/Legend_K_Userbot)
+
+### ADMIN
+
+<details>
+
+  <summary> • Owner • </summary>
+<h2 align="center"> <a href="https://telegram.dog/Dhrubaxd">☢️DhrubaXD☢️</a></h2>
+
+</details>
