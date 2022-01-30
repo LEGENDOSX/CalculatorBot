@@ -13,16 +13,16 @@ Bot = Client(
 
 START_TEXT = """
 Hello {}, I am a simple, smart and Fastest calculator bot. Send me /calculator.
-Made by @Akki_ThePro!
+Made by @DhrubaXD!
 
-[Message Owner](https://telegram.dog/Akki_ThePro) | [Support](https://t.me/TheArjvps) | [Repository](https://github.com/ThePro-CoderZ/CalculatorBot)
+[Message Owner](https://telegram.dog/Dhrubaxd) | [Support](https://t.me/Legend_K_Userbot) | [Repository](https://github.com/LEGENDOSX/CalculatorBot)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton(' Join Updates Channel ', url='https://telegram.me/TheArjvps')
+        InlineKeyboardButton(' Join Updates Channel ', url='https://telegram.me/Legend_K_Userbot')
         ]]
     )
-CALCULATE_TEXT = "Made by @Akki_ThePro"
+CALCULATE_TEXT = "Made by @DhrubaXD"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
