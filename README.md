@@ -5,7 +5,7 @@ This is the Best Calculator Bot!
 
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/ThePro-CoderZ/CalculatorBot/tree/calc">
+  <a href="https://heroku.com/deploy?template=https://github.com/LEGENDOSX/CalculatorBot/tree/calc">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -20,4 +20,4 @@ This is the Best Calculator Bot!
 
 ---
 
-[Support group](t.me/TheArjvps)
+[Support group](https://t.me/Legend_K_Userbot)
